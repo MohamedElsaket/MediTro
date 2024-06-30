@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MediTro/static/css/main.621a3a01.css",
+    "main.js": "/MediTro/static/js/main.d4246faf.js",
+    "static/media/doctor.png": "/MediTro/static/media/doctor.7c2bc96d67d3eba1d64a.7c2bc96d67d3eba1d64a.png",
+    "static/media/pic2.jpg": "/MediTro/static/media/pic2.67db6c474a828bd7a0cd.67db6c474a828bd7a0cd.jpg",
+    "static/media/pic3.jpg": "/MediTro/static/media/pic3.89b8315141d75bd31ced.89b8315141d75bd31ced.jpg",
+    "static/media/pic1.jpg": "/MediTro/static/media/pic1.a3848a1189e2114e1b47.a3848a1189e2114e1b47.jpg",
+    "static/media/mobile.png": "/MediTro/static/media/mobile.f82d73222992d2101a09.f82d73222992d2101a09.png",
+    "static/media/section-two (1).jpg": "/MediTro/static/media/section-two (1).0593bc2fd8a13cf8c19f.jpg",
+    "static/media/section-two (3).jpg": "/MediTro/static/media/section-two (3).ad1ed7ee8284087fe9ee.jpg",
+    "static/media/section-two (2).jpg": "/MediTro/static/media/section-two (2).fa689b1037dbf69567a3.jpg",
+    "static/media/banner.webp": "/MediTro/static/media/banner.3f078d8f5d74d6c05cec.webp",
+    "static/media/slick.svg": "/MediTro/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/MediTro/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/MediTro/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/MediTro/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/MediTro/index.html",
+    "main.621a3a01.css.map": "/MediTro/static/css/main.621a3a01.css.map",
+    "main.d4246faf.js.map": "/MediTro/static/js/main.d4246faf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.621a3a01.css",
+    "static/js/main.d4246faf.js"
+  ]
+}
