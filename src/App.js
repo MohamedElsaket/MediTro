@@ -10,7 +10,7 @@ import LoginPage from './Pages/Login';
 import ForgetPassPage from './Pages/ForgetPass';
 import Register from './components/Register/Register';
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
     element: <Layout />,
     children: [
