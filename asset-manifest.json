@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MediTro/static/css/main.76e856cd.css",
-    "main.js": "/MediTro/static/js/main.24eb30e1.js",
+    "main.js": "/MediTro/static/js/main.21a45373.js",
     "static/media/doctor.png": "/MediTro/static/media/doctor.7c2bc96d67d3eba1d64a.7c2bc96d67d3eba1d64a.png",
     "static/media/pic2.jpg": "/MediTro/static/media/pic2.67db6c474a828bd7a0cd.67db6c474a828bd7a0cd.jpg",
     "static/media/pic3.jpg": "/MediTro/static/media/pic3.89b8315141d75bd31ced.89b8315141d75bd31ced.jpg",
@@ -17,10 +17,10 @@
     "static/media/slick.woff": "/MediTro/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/MediTro/index.html",
     "main.76e856cd.css.map": "/MediTro/static/css/main.76e856cd.css.map",
-    "main.24eb30e1.js.map": "/MediTro/static/js/main.24eb30e1.js.map"
+    "main.21a45373.js.map": "/MediTro/static/js/main.21a45373.js.map"
   },
   "entrypoints": [
     "static/css/main.76e856cd.css",
-    "static/js/main.24eb30e1.js"
+    "static/js/main.21a45373.js"
   ]
 }
