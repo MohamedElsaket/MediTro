@@ -1,0 +1,21 @@
+.faq ul li {
+    margin: 30px;
+    width: 550px;
+}
+.faq ul li h4 {
+    background-color: var(--orange-color);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    user-select: none;
+}
+.faq ul li p {
+    background-color: #eee;
+    padding: 70px 20px 20px;
+    border-radius: 10px;
+    transition: 1s;
+}

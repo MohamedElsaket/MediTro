@@ -1,0 +1,11 @@
+.PageName h2 {
+    font-size: 80px;
+    padding-bottom: 50px;
+}
+button {
+    background-color: var(--main-color);
+}
+button a {
+    text-decoration: none;
+    color: white;
+}

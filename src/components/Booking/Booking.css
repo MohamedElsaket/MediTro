@@ -1,0 +1,70 @@
+.booking .container {
+    background-color: #F5F5FC;
+    border-radius: 30px;
+}
+.booking .container form {
+    flex-direction: column;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}
+.booking .container form h2 {
+    color: var(--font-color);
+    font-weight: bold;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.booking .container form ul {
+    list-style: none;
+    padding: 0;
+}
+.booking .container form ul li {
+    margin-bottom: 15px;
+}
+.booking .container form select {
+    appearance: none;
+}
+.booking .container form input::placeholder {
+     font-family: "Montserrat", sans-serif;
+}
+.booking .container form input,
+.booking .container form select {
+    padding: 20px;
+    width: 100%;
+    border: 1px #eee solid;
+    border-radius: 10px;
+}
+.booking .container form .main-btn {
+    background-color: var(--orange-color);
+    box-shadow: 0 5px 20px 0 rgba(241, 119, 50, .3);
+}
+.booking .container form .main-btn:hover {
+    opacity: 1;
+}
+.booking .container form button a {
+    color: white;
+}
+.booking .phonePic .one {
+    right: 20px;
+    top: 20px;
+}
+.booking .phonePic .two {
+    left: 30px;
+    top: 160px;
+}
+.booking .phonePic .three {
+    left: 80px;
+    top: 280px;
+}
+.booking .phonePic .four {
+    left: 65%;
+    top: 60%;
+}
+.booking .phonePic .one,
+.booking .phonePic .two {
+    animation: upAndDown 6s infinite linear;
+}
+.booking .phonePic .three,
+.booking .phonePic .four {
+    animation: upAndDown 4s infinite linear;
+}

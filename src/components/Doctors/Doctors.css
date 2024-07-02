@@ -1,0 +1,49 @@
+.doctors .text h5 {
+    color: var(--orange-color);
+}
+.doctors .content {
+    border: 1px solid var(--main-color);
+    border-radius: 30px;
+    opacity: .8;
+    transition: .5s;
+    height: 500px;
+}
+.doctors .content:hover {
+    opacity: 1;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border: none;
+}
+.doctors .content .img {
+    position: relative;
+    padding-top: 300px;
+}
+.doctors .content .img img {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 130px;
+    border-radius: 50%;
+}
+.doctors .content .img::before {
+    position: absolute;
+    content: url('../../assets/download.png');
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* border-radius: 50%;
+    overflow: hidden; */
+}
+.doctors .content .img::after {
+    position: absolute;
+    content: url('../../assets/download\ \(1\).png');
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.doctors .content h3 {
+    color: var(--font-color);
+}
+.doctors .content p {
+    color: var(--orange-color);
+}

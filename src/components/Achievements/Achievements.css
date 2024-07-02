@@ -1,0 +1,27 @@
+.achievements {
+    background-color: #EEEEFA;
+}
+.achievements .box {
+    background-color: white;
+    border-radius: 10px;
+    transition: .5s;
+}
+.achievements .box:hover {
+    background-color: var(--main-color);
+}
+.achievements .box:hover h2,
+.achievements .box:hover h4,
+.achievements .box:hover p {
+    color: white;
+}
+.achievements .box h2 {
+    color: var(--orange-color);
+    font-size: 60px;
+    font-weight: bold;
+}
+.achievements .box h4 {
+    color: var(--font-color);
+}
+.achievements .box p {
+    line-height: 1.8;
+}

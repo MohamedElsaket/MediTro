@@ -1,0 +1,48 @@
+.secFour .text h5{
+    color: var(--orange-color);
+}
+.secFour .text p {
+    line-height: 2;
+}
+.secFour .text .main-btn {
+    background-color: var(--orange-color);
+}
+.secFour .slider {
+    background-color: var(--main-color);
+    border-radius: 30px;
+}
+.secFour .slider-details {
+    background-image: url('../../assets/slider-curves.png');
+    background-size: cover;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 30px;
+}
+.secFour .slider-details .icon {
+    background-color: white;
+    border: 1px solid #e6e6f8;
+    border-radius: 10px;
+    color: var(--orange-color);
+}
+.secFour .slider-details h2 {
+    font-weight: bold;
+    color: var(--font-color);
+}
+.secFour .slider-details:hover .icon {
+    animation: vibe .4s linear;
+}
+.secFour .slider-details .main-btn {
+    color: var(--font-color);
+}
+.secFour .slider-details:hover .main-btn {
+    background-color: var(--main-color);
+    color: white;
+}
+@media (max-width: 992px) {
+    .secFour .slider {
+        margin-top: 35px;
+        width: calc(100% - 15px);
+    }
+}

@@ -1,0 +1,56 @@
+.footer {
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+.footer .banner {
+    transform: rotate(180deg);
+}
+.footer .logo .lorem {
+    padding: 15px;
+    color: #777;
+    font-size: 19px;
+}
+.footer .logo .p {
+    color: var(--orange-color);
+}
+.footer .logo .phone-icon {
+    background-color: var(--orange-color);
+    padding: 15px;
+    color: white;
+    border-radius: 50% 50% 0 ;
+}
+.footer .logo span {
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--font-color);
+    line-height: 2;
+}
+.footer h3 {
+    color: var(--font-color);
+    font-weight: bold;
+}
+.footer ul {
+    padding: 0;
+}
+.footer ul li {
+    padding: 10px 0;
+}
+.footer ul li a {
+    text-decoration: none;
+    color: black;
+}
+.footer ul li a:hover {
+    color: var(--font-color);
+}
+.footer input {
+    border: 1px solid var(--font-color);
+    border-radius: 15px;
+    margin: 20px 0;
+    padding: 10px 15px;
+}
+.footer .main-btn {
+    background-color: var(--orange-color);
+    margin: 20px 0;
+}
+.footer .main-btn:hover {
+    opacity: 1;
+}

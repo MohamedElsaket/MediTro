@@ -1,0 +1,32 @@
+.LatestNews .text h5 {
+    color: var(--orange-color);
+}
+.LatestNews .info .box {
+    border-radius: 10px;
+    margin: 15px;
+    transition: .3s;
+    border: 1px solid var(--main-color);
+}
+.LatestNews .info .box:hover {
+    border: 1px solid #eee;
+    box-shadow: 0 5px 20px 0 rgba(86, 90, 207, .3);
+}
+.LatestNews .info .box img {
+    border-radius: 10px;
+}
+.LatestNews .info .box p {
+    color: var(--orange-color);
+    padding: 15px 0;
+}
+.LatestNews .info .box h4 {
+    color: var(--font-color);
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.LatestNews .info .box .main-btn {
+    color: white;
+    margin: 15px 0;
+}
+.LatestNews .info .box:hover .main-btn {
+    opacity: 1;
+}
